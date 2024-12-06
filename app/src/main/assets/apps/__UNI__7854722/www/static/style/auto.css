@@ -1,0 +1,13 @@
+/* stylelint-disable */
+/* 
+  @see https://gitcode.net/ksgs_csdn/vitejs-vite-plugin-autocss
+  @version: v1.0.5
+  @author kviewui <kviewui@163.com>
+  2024-03-19 23:28:44
+  该文件将会自动初始化并更新，切勿直接修改！
+*/
+
+/* colors */
+.bg-white{ background-color: rgba(255,255,255,1) !important; }
+/* padding-x */
+.px-30{ padding-left: 30px !important; padding-right: 30px !important; }

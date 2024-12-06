@@ -86,7 +86,7 @@ dependencies {
     implementation project(':uniappx')
     implementation fileTree(include: ['*.aar', '*.jar'], dir: '../uniappx/libs')
     implementation "com.squareup.okhttp3:okhttp:3.12.12"
-	implementation project(':kux-pip')
+	implementation project(':kux-use')
     implementation 'com.github.bumptech.glide:glide:4.9.0'
     implementation 'androidx.annotation:annotation:1.1.0'
     implementation 'androidx.core:core:1.1.0'

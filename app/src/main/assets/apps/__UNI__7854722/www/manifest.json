@@ -1,6 +1,6 @@
 {
-  "id": "__UNI__4CAF968",
-  "name": "kux-pip",
+  "id": "__UNI__7854722",
+  "name": "kux-use",
   "description": "",
   "version": {
     "name": "1.0.0",
@@ -21,8 +21,7 @@
       },
       "modules": {
         "uni-prompt": {},
-        "uni-exit": {},
-        "uni-video": {}
+        "uni-exit": {}
       }
     }
   }
